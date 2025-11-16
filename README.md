@@ -10,89 +10,35 @@ This GitHub portfolio contains my hands on projects, study notes, diagrams and l
 
 ## ⭐ Microsoft Security Certification Roadmap
 
-SC 300 Identity and Access  
-➡ SC 200 Security Operations  
-➡ SC 400 Information Protection  
-➡ AZ 500 Azure Security  
-➡ SC 100 Cybersecurity Architecture  
+I am following the complete Microsoft cloud security pathway:
+
+**SC 300** Identity and Access  
+➡ **SC 200** Security Operations  
+➡ **SC 400** Information Protection  
+➡ **AZ 500** Azure Security  
+➡ **SC 100** Cybersecurity Architecture  
 
 ---
 
 ## 📊 Progress Tracker
 
-| Certification | Status | Badge |
-|--------------|--------|--------|
-| **MS 900** | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
-| **AZ 900** | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
-| **SC 900** | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
-| **SC 300** | 🟩 In progress | ![](https://img.shields.io/badge/SC300-In%20Progress-green) |
-| **SC 200** | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
-| **SC 400** | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
-| **AZ 500** | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
-| **SC 100** | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifavictor&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=latifavictor)
-
-</div>
-
----
-
-## 🧰 Technologies I Use
-
-Here are some of the tools and technologies that I work with:
-
-### 🔐 Identity and Security
-• 🟦 Microsoft Entra ID  
-• 🔐 Conditional Access  
-• 🛡 Microsoft Defender  
-• 🔏 Privileged Identity Management  
-• 📊 Microsoft Sentinel  
-• 🧩 SAML, OAuth, OpenID Connect  
-
-### 💻 Automation and Scripting
-• 🟢 PowerShell  
-• 🟣 Microsoft Graph  
-• 📁 JSON and YAML  
-
-### 🌐 Cloud and Modern Workplace
-• ☁ Azure  
-• 🖥 Microsoft 365  
-• 📱 Intune and device identity  
-• 🧭 Zero trust principles  
-
-### 📘 Documentation and Diagrams
-• 📝 Markdown  
-• 🖼 Draw.io and Lucidchart  
-• 🗂 GitHub Projects and Issues  
-
----
-
-## 📰 Latest LinkedIn Posts
-
-You can update this weekly to show your active learning journey.
-
-| Date | Title | Link |
-|------|--------|------|
-| 2025 | My SC 300 study journey has started | https://www.linkedin.com/in/latifatvictor/ |
-| 2025 | Hands on Conditional Access testing in my lab | https://www.linkedin.com/in/latifatvictor/ |
-| 2025 | Why identity is the foundation of cloud security | https://www.linkedin.com/in/latifatvictor/ |
-
-Add your newest LinkedIn posts here as you create them.
+| Certification | Status |
+|--------------|--------|
+| MS 900 | ✔ Completed |
+| AZ 900 | ✔ Completed |
+| SC 900 | ✔ Completed |
+| **SC 300** | 🟩 In progress |
+| SC 200 | ⬜ Planned |
+| SC 400 | ⬜ Planned |
+| AZ 500 | ⬜ Planned |
+| SC 100 | ⬜ Planned |
 
 ---
 
 ## 🎯 Current Focus
 
-• Microsoft SC 300 Identity and Access Administrator  
-• Identity governance and lifecycle management  
+• Microsoft **SC 300 Identity and Access Administrator**  
+• Identity governance and lifecycle  
 • Conditional Access and multifactor authentication  
 • Privileged Identity Management  
 • Microsoft Entra ID  
@@ -118,6 +64,8 @@ Add your newest LinkedIn posts here as you create them.
 • Joiner mover leaver lifecycle documentation  
 • PowerShell automation scripts for Microsoft 365  
 
+Repositories will appear below as I continue uploading projects and documentation.
+
 ---
 
 ## 📂 What You Will Find in This Portfolio
@@ -141,18 +89,18 @@ Intune configuration notes, device identity concepts and compliance examples.
 **LinkedIn**  
 https://www.linkedin.com/in/latifatvictor/
 
-**Instagram**  
+**Instagram (Cybersecurity, Microsoft 365 and IT support)**  
 https://www.instagram.com/techwithlati/
 
-**TikTok**  
+**TikTok (faceless tech content)**  
 https://www.tiktok.com/@techwithlati
 
 ---
 
 ## 💬 About Me
 
-I enjoy building modern workplace solutions, strengthening identity security and creating content that helps others learn Microsoft 365 and cloud technologies.
+I enjoy building modern workplace solutions, strengthening identity security and creating content that helps others understand Microsoft 365 tools and cloud technologies.
 
-This GitHub represents my continuous learning and career development. I update it weekly with new projects, labs and scripts.
+This GitHub represents my continuous learning and career growth. New projects, labs and scripts will be added weekly as I progress through the Microsoft security certifications.
 
 Thank you for visiting.
