@@ -1,146 +1,197 @@
-# 👩‍💻 Cloud, Identity and Microsoft 365 Security Portfolio
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://github.com/latifavictor/latifavictor/blob/main/assets/banner.png" alt="Cloud Identity and Security Banner" width="100%">
+</p>
 
-Hello, I am **Lati**. I work with modern workplace technologies and I am currently building advanced skills in Microsoft 365 identity, access management and cloud security.
+# 👩‍💻 Lati | Cloud, Identity and Microsoft 365 Security Engineer
 
-My long term goal is to become a Microsoft 365 Security Specialist who can design secure identity architectures, automate processes with PowerShell and strengthen security posture across cloud environments.
+Welcome to my portfolio.  
+I am building deep technical expertise in Microsoft 365 Security, Identity and Access Management, Zero Trust, and cloud-based security automation.
 
-This GitHub portfolio contains my hands on projects, study notes, diagrams and lab work as I progress through the full Microsoft security certification path.
+My mission is to become a **top-tier Microsoft 365 Security Specialist**, able to design secure identity architectures, build strong access governance, automate operations with PowerShell and deliver enterprise-grade cloud security solutions.
 
----
-
-## ⭐ Microsoft Security Certification Roadmap
-
-SC 300 Identity and Access  
-➡ SC 200 Security Operations  
-➡ SC 400 Information Protection  
-➡ AZ 500 Azure Security  
-➡ SC 100 Cybersecurity Architecture  
+This GitHub is my **learning space, project hub, documentation library and security engineering portfolio**.
 
 ---
 
-## 📊 Progress Tracker
+# ⭐ Skills Snapshot
+
+### 🔐 Identity & Access Security  
+• Microsoft Entra ID  
+• Conditional Access design  
+• Privileged Identity Management  
+• Identity Governance & JML  
+• Modern authentication  
+• Zero Trust identity architecture  
+• Authentication Strengths & MFA  
+
+### 🛡 Cloud & M365 Security  
+• Microsoft 365 Defenders  
+• Information Protection  
+• Alerts, logs and investigations  
+• Azure AD security controls  
+• Security baselines  
+• Threat analysis  
+
+### 💻 Automation & Engineering  
+• PowerShell  
+• Microsoft Graph API  
+• Identity automation  
+• Reporting & audit export  
+• CA policy analysis  
+• Governance workflow automation  
+
+---
+
+# ⭐ Microsoft Security Certification Roadmap
 
 | Certification | Status | Badge |
 |--------------|--------|--------|
-| **MS 900** | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
-| **AZ 900** | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
-| **SC 900** | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
-| **SC 300** | 🟩 In progress | ![](https://img.shields.io/badge/SC300-In%20Progress-green) |
-| **SC 200** | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
-| **SC 400** | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
-| **AZ 500** | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
-| **SC 100** | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
+| MS 900 | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
+| AZ 900 | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
+| SC 900 | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
+| **SC 300** | 🟩 In progress | ![](https://img.shields.io/badge/SC300-In%20Progress-brightgreen) |
+| SC 200 | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
+| SC 400 | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
+| AZ 500 | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
+| SC 100 | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
 
 ---
 
-## 🧰 Technologies I Use
+# ⭐ Technologies I Work With
 
-Here are some of the tools and technologies that I work with:
+### 🔐 Identity & Security  
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-512BD4?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Conditional_Access-0078D4?logo=microsoft" />
+<img src="https://img.shields.io/badge/PIM-9333EA?logo=microsoft" />
+<img src="https://img.shields.io/badge/Zero_Trust-000000?logo=zero" />
 
-### 🔐 Identity and Security
-• 🟦 Microsoft Entra ID  
-• 🔐 Conditional Access  
-• 🛡 Microsoft Defender  
-• 🔏 Privileged Identity Management  
-• 📊 Microsoft Sentinel  
-• 🧩 SAML, OAuth, OpenID Connect  
+### 💻 Automation  
+<img src="https://img.shields.io/badge/PowerShell-2CA5E0?logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?logo=microsoft&logoColor=white" />
 
-### 💻 Automation and Scripting
-• 🟢 PowerShell  
-• 🟣 Microsoft Graph  
-• 📁 JSON and YAML  
-
-### 🌐 Cloud and Modern Workplace
-• ☁ Azure  
-• 🖥 Microsoft 365  
-• 📱 Intune and device identity  
-• 🧭 Zero trust principles  
-
-### 📘 Documentation and Diagrams
-• 📝 Markdown  
-• 🖼 Draw.io and Lucidchart  
-• 🗂 GitHub Projects and Issues  
+### 🌐 Cloud  
+<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365-0078D4?logo=microsoft" />
 
 ---
 
-## 📰 Latest LinkedIn Posts
+# ⭐ Projects Showcase
 
-You can update this weekly to show your active learning journey.
+<details>
+<summary>🔐 <strong>SC 300 Identity and Access Lab Series</strong></summary>
 
-| Date | Title | Link |
-|------|--------|------|
-| 2025 | My SC 300 study journey has started | https://www.linkedin.com/in/latifatvictor/ |
-| 2025 | Hands on Conditional Access testing in my lab | https://www.linkedin.com/in/latifatvictor/ |
-| 2025 | Why identity is the foundation of cloud security | https://www.linkedin.com/in/latifatvictor/ |
+### Scenario 1: Require MFA Outside Trusted Locations  
+→ Configuration steps  
+→ Logs  
+→ Testing plan  
+→ Security justification  
+→ Lessons learned  
 
-Add your newest LinkedIn posts here as you create them.
+### Scenario 2: Block Legacy Authentication  
+→ Attack surface explained  
+→ How to block  
+→ Monitoring legacy auth  
+→ Log analysis  
 
----
+### Scenario 3: Conditional Access Baseline for Admins  
+→ Secure admin roles  
+→ PIM + CA integration  
 
-## 🎯 Current Focus
-
-• Microsoft SC 300 Identity and Access Administrator  
-• Identity governance and lifecycle management  
-• Conditional Access and multifactor authentication  
-• Privileged Identity Management  
-• Microsoft Entra ID  
-• Modern authentication  
-• Zero trust identity concepts  
-
----
-
-## 🏅 Certifications Completed
-
-• Microsoft 365 Fundamentals (MS 900)  
-• Azure Fundamentals (AZ 900)  
-• Security, Compliance and Identity Fundamentals (SC 900)  
+More scenarios coming weekly.
+</details>
 
 ---
 
-## 🚧 Projects in Progress
+<details>
+<summary>💻 <strong>PowerShell Automation for Microsoft 365</strong></summary>
 
-• SC 300 hands on lab series  
-• Conditional Access scenarios  
-• Identity governance templates  
-• PIM demonstration project  
-• Joiner mover leaver lifecycle documentation  
-• PowerShell automation scripts for Microsoft 365  
+### 🔹 User Management  
+• Create Entra users  
+• Update attributes  
+• Disable accounts  
+• Bulk import  
 
----
+### 🔹 Reporting  
+• Sign in logs  
+• Audit logs  
+• CA policy reporting  
+• Licence usage reports  
 
-## 📂 What You Will Find in This Portfolio
+### 🔹 Identity Security  
+• MFA method audits  
+• PIM role reviews  
+• Authentication method reporting  
 
-### 🔐 Identity and Access Projects  
-Hands on lab work, configuration examples, diagrams and real world scenarios based on Microsoft Entra ID and the SC 300 learning path.
-
-### 💻 PowerShell Automation  
-Scripts for licence assignment, log export, identity reporting and Conditional Access analysis.
-
-### 🛡 Security and Compliance Notes  
-Study notes and diagrams from my Microsoft 365 and Azure security learning journey.
-
-### 📱 Modern Workplace Learning  
-Intune configuration notes, device identity concepts and compliance examples.
+All scripts available in my **M365-PowerShell-Scripts** repository.
+</details>
 
 ---
 
-## 🔗 Connect With Me
+<details>
+<summary>🛡 <strong>Identity Governance Templates</strong></summary>
+
+### 🔸 JML Lifecycle  
+• Joiner automation  
+• Mover updates  
+• Leaver revocation  
+• Governance controls  
+
+### 🔸 Access Reviews  
+• Role-based reviews  
+• App access reviews  
+• Group membership governance  
+
+### 🔸 Entitlement Management  
+• Access packages  
+• Policies  
+• Assignments  
+
+A full governance pack is being developed and published weekly.
+</details>
+
+---
+
+# ⭐ Learning Notes & Diagrams
+
+### 📘 Identity & Security Notes  
+I publish structured weekly study logs covering SC300, identity protection concepts and cloud security fundamentals.
+
+### 📊 Diagrams & Architecture  
+• Identity lifecycle  
+• Zero trust model  
+• Authentication flow  
+• Conditional Access decision tree  
+• Security posture improvement map  
+
+(Added inside the **Diagrams** folder.)
+
+---
+
+# ⭐ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latifavictor&show_icons=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifavictor&layout=compact" height="160">
+</p>
+
+---
+
+# ⭐ Connect With Me
 
 **LinkedIn**  
 https://www.linkedin.com/in/latifatvictor/
 
-**Instagram**  
+**Instagram (Tech With Lati)**  
 https://www.instagram.com/techwithlati/
 
-**TikTok**  
+**TikTok (Tech With Lati)**  
 https://www.tiktok.com/@techwithlati
 
 ---
 
-## 💬 About Me
+# ⭐ About This Portfolio
 
-I enjoy building modern workplace solutions, strengthening identity security and creating content that helps others learn Microsoft 365 and cloud technologies.
-
-This GitHub represents my continuous learning and career development. I update it weekly with new projects, labs and scripts.
+I update this portfolio weekly as I complete labs, build scripts, study security architecture and develop real world Microsoft 365 security skills.
 
 Thank you for visiting.
