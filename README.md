@@ -1,7 +1,8 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://github.com/latifavictor/latifatvictor/blob/main/assets/banner.png" alt="Cloud Identity and Security Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/latifatvictor/latifatvictor/main/assets/banner.png" width="100%">
 </p>
+
 
 # 👩‍💻 Lati | Cloud, Identity and Microsoft 365 Security Engineer
 
