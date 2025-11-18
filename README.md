@@ -1,10 +1,10 @@
 # 👩‍💻 Cloud, Identity and Microsoft 365 Security Portfolio
 
-Hello, I am **Lati**, working with modern workplace technologies and building advanced skills in Microsoft 365 identity, access management and cloud security.
+Hello, I am **Lati**. I work with modern workplace technologies and I am currently building advanced skills in Microsoft 365 identity, access management and cloud security.
 
-My goal is to become a Microsoft 365 Security Specialist who can design secure identity architectures, automate tasks with PowerShell and strengthen security posture across cloud environments.
+My long term goal is to become a Microsoft 365 Security Specialist who can design secure identity architectures, automate processes with PowerShell and strengthen security posture across cloud environments.
 
-This GitHub showcases my hands on labs, study notes and projects as I progress through the Microsoft security certification path.
+This GitHub portfolio contains my hands on projects, study notes, diagrams and lab work as I progress through the full Microsoft security certification path.
 
 ---
 
@@ -22,74 +22,117 @@ SC 300 Identity and Access
 
 | Certification | Status | Badge |
 |--------------|--------|--------|
-| MS 900 | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
-| AZ 900 | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
-| SC 900 | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
-| SC 300 | 🟩 In progress | ![](https://img.shields.io/badge/SC300-In%20Progress-green) |
-| SC 200 | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
-| SC 400 | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
-| AZ 500 | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
-| SC 100 | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
+| **MS 900** | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
+| **AZ 900** | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
+| **SC 900** | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
+| **SC 300** | 🟩 In progress | ![](https://img.shields.io/badge/SC300-In%20Progress-green) |
+| **SC 200** | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
+| **SC 400** | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
+| **AZ 500** | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
+| **SC 100** | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="left">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifavictor&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=latifavictor)
+
+</div>
 
 ---
 
 ## 🧰 Technologies I Use
 
+Here are some of the tools and technologies that I work with:
+
 ### 🔐 Identity and Security
-• Microsoft Entra ID  
-• Conditional Access  
-• Microsoft Defender  
-• Privileged Identity Management  
-• Modern authentication  
-• Zero trust concepts  
+• 🟦 Microsoft Entra ID  
+• 🔐 Conditional Access  
+• 🛡 Microsoft Defender  
+• 🔏 Privileged Identity Management  
+• 📊 Microsoft Sentinel  
+• 🧩 SAML, OAuth, OpenID Connect  
 
-### 💻 Automation
-• PowerShell  
-• Microsoft Graph  
-• JSON  
+### 💻 Automation and Scripting
+• 🟢 PowerShell  
+• 🟣 Microsoft Graph  
+• 📁 JSON and YAML  
 
-### 🌐 Cloud & Workplace
-• Azure  
-• Microsoft 365  
-• Intune  
-• Device identity  
+### 🌐 Cloud and Modern Workplace
+• ☁ Azure  
+• 🖥 Microsoft 365  
+• 📱 Intune and device identity  
+• 🧭 Zero trust principles  
+
+### 📘 Documentation and Diagrams
+• 📝 Markdown  
+• 🖼 Draw.io and Lucidchart  
+• 🗂 GitHub Projects and Issues  
+
+---
+
+## 📰 Latest LinkedIn Posts
+
+You can update this weekly to show your active learning journey.
+
+| Date | Title | Link |
+|------|--------|------|
+| 2025 | My SC 300 study journey has started | https://www.linkedin.com/in/latifatvictor/ |
+| 2025 | Hands on Conditional Access testing in my lab | https://www.linkedin.com/in/latifatvictor/ |
+| 2025 | Why identity is the foundation of cloud security | https://www.linkedin.com/in/latifatvictor/ |
+
+Add your newest LinkedIn posts here as you create them.
 
 ---
 
 ## 🎯 Current Focus
 
-• SC 300 labs and identity projects  
-• Identity governance and lifecycle  
-• Conditional Access design  
-• PIM and privileged access management  
-• PowerShell for cloud automation  
+• Microsoft SC 300 Identity and Access Administrator  
+• Identity governance and lifecycle management  
+• Conditional Access and multifactor authentication  
+• Privileged Identity Management  
+• Microsoft Entra ID  
+• Modern authentication  
+• Zero trust identity concepts  
 
 ---
 
-## 🛠 Projects in Progress
+## 🏅 Certifications Completed
 
-• SC 300 lab series  
+• Microsoft 365 Fundamentals (MS 900)  
+• Azure Fundamentals (AZ 900)  
+• Security, Compliance and Identity Fundamentals (SC 900)  
+
+---
+
+## 🚧 Projects in Progress
+
+• SC 300 hands on lab series  
 • Conditional Access scenarios  
 • Identity governance templates  
-• PIM project examples  
-• JML lifecycle documentation  
-• Microsoft 365 automation scripts  
+• PIM demonstration project  
+• Joiner mover leaver lifecycle documentation  
+• PowerShell automation scripts for Microsoft 365  
 
 ---
 
-## 📂 What You Will Find Here
+## 📂 What You Will Find in This Portfolio
 
 ### 🔐 Identity and Access Projects  
-Hands on labs based on SC 300 topics and real world identity security configurations.
+Hands on lab work, configuration examples, diagrams and real world scenarios based on Microsoft Entra ID and the SC 300 learning path.
 
 ### 💻 PowerShell Automation  
-Scripts for identity reporting, licence management and Conditional Access analysis.
+Scripts for licence assignment, log export, identity reporting and Conditional Access analysis.
 
-### 🛡 Security Notes  
-Study notes and technical explanations from my Microsoft 365 and Azure security learning journey.
+### 🛡 Security and Compliance Notes  
+Study notes and diagrams from my Microsoft 365 and Azure security learning journey.
 
-### 📱 Modern Workplace  
-Intune, device identity and compliance notes.
+### 📱 Modern Workplace Learning  
+Intune configuration notes, device identity concepts and compliance examples.
 
 ---
 
@@ -98,18 +141,18 @@ Intune, device identity and compliance notes.
 **LinkedIn**  
 https://www.linkedin.com/in/latifatvictor/
 
-**Instagram (Cybersecurity, Microsoft 365 and IT support)**  
+**Instagram**  
 https://www.instagram.com/techwithlati/
 
-**TikTok (Tech content)**  
+**TikTok**  
 https://www.tiktok.com/@techwithlati
 
 ---
 
 ## 💬 About Me
 
-I enjoy strengthening identity security, building modern workplace solutions and sharing knowledge to help others learn Microsoft 365 tools and cloud technologies.
+I enjoy building modern workplace solutions, strengthening identity security and creating content that helps others learn Microsoft 365 and cloud technologies.
 
-This portfolio represents my continuous learning. I update it weekly with new labs, projects and scripts.
+This GitHub represents my continuous learning and career development. I update it weekly with new projects, labs and scripts.
 
 Thank you for visiting.
