@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/latifatvictor/latifatvictor/main/assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/latifatvictor/latifatvictor/main/assets/banner.png" width="50%">
 </p>
 
 
