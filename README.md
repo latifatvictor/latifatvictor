@@ -172,7 +172,6 @@ I publish structured weekly study logs covering SC300, identity protection conce
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifatvictor&layout=compact" height="160">
 </p>
 
 ---
