@@ -33,18 +33,6 @@ SC 300 Identity and Access
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifavictor&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=latifavictor)
-
-</div>
-
----
-
 ## 🧰 Technologies I Use
 
 Here are some of the tools and technologies that I work with:
