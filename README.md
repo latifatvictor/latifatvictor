@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://github.com/latifavictor/latifavictor/blob/main/assets/banner.png" alt="Cloud Identity and Security Banner" width="100%">
+  <img src="https://github.com/latifavictor/latifatvictor/blob/main/assets/banner.png" alt="Cloud Identity and Security Banner" width="100%">
 </p>
 
 # 👩‍💻 Lati | Cloud, Identity and Microsoft 365 Security Engineer
@@ -171,8 +171,8 @@ I publish structured weekly study logs covering SC300, identity protection conce
 # ⭐ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latifavictor&show_icons=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifavictor&layout=compact" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifatvictor&layout=compact" height="160">
 </p>
 
 ---
@@ -187,6 +187,9 @@ https://www.instagram.com/techwithlati/
 
 **TikTok (Tech With Lati)**  
 https://www.tiktok.com/@techwithlati
+
+**Twitter (Tech With Lati)**  
+[https://www.tiktok.com/@techwithlati](https://x.com/techwithlati)
 
 ---
 
