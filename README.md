@@ -1,9 +1,3 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/latifatvictor/latifatvictor/main/assets/banner.png" width="50%">
-</p>
-
-
 # 👩‍💻 Lati | Cloud, Identity and Microsoft 365 Security Engineer
 
 Welcome to my portfolio.  
