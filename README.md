@@ -7,7 +7,7 @@
 
 ---
 
-# 👋 Hi, I'm **Lati**
+# 👋🏽 Hi, I'm **Lati**
 Cloud Identity & Microsoft 365 Security Engineer specialising in **Entra ID, Conditional Access, Identity Governance, Zero Trust architecture, and PowerShell/Graph automation**.
 
 📍 *London, UK*  
