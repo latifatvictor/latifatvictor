@@ -1,8 +1,5 @@
 # 🌐 Lati | Cloud Identity & Microsoft 365 Security Engineer
 
-<!-- TOP BANNER -->
-![Banner](/mnt/data/A_flat,_modern-style_digital_illustration_banner_f.png)
-
 <!-- ANIMATED HEADLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Identity+Engineer;Microsoft+365+Security+Specialist;Zero+Trust+%7C+Conditional+Access;PowerShell+%26+Graph+Automation;SC-300+Identity+Engineering+Journey&center=true&width=750&height=45" />
@@ -221,7 +218,7 @@ Weekly structured notes covering:
 ---
 
 # 🗓 Last Updated  
-**February 2025**
+**November 2025**
 
 ---
 
