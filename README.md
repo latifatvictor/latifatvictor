@@ -1,89 +1,97 @@
-# 🌐 Lati | Cloud Identity & Microsoft 365 Security Engineer
+<!-- ======================= PROFILE HEADER ======================= -->
 
-<!-- ANIMATED HEADLINE -->
+<h1 align="center">🌐 Lati | Cloud Identity & Microsoft 365 Security Engineer</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Identity+Engineer;Microsoft+365+Security+Specialist;Zero+Trust+%7C+Conditional+Access;PowerShell+%26+Graph+Automation;SC-300+Identity+Engineering+Journey&center=true&width=750&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Identity+Engineer;Microsoft+365+Security+%26+Zero+Trust;Entra+ID+Conditional+Access+Expert;PowerShell+%26+Graph+Automation;SC-300+Identity+Engineering+Journey&center=true&width=800&height=45">
+</p>
+
+<p align="center">
+  <b>Designing secure access at scale with Entra ID, Zero Trust and Automation</b><br>
+  Identity Governance ▪ Conditional Access ▪ JML Automation ▪ PowerShell + Graph ▪ Cloud Security
+</p>
+
+<p align="center">
+  📍 London, UK • 🚀 On a mission to become a world-class Cloud Identity & Security Engineer
 </p>
 
 ---
 
-# 👋🏽 Hi, I'm **Lati**
-Cloud Identity & Microsoft 365 Security Engineer specialising in **Entra ID, Conditional Access, Identity Governance, Zero Trust architecture, and PowerShell/Graph automation**.
+<!-- ======================= VALUE & POSITIONING ======================= -->
 
-📍 *London, UK*  
-🎯 *Goal: Become a world-class Microsoft Cloud Security & Identity Engineer*
+## 🏆 What I Do
 
-I design identity solutions, build cloud security automations, and develop governance frameworks that strengthen enterprise security posture.
+I build and secure identity systems using Microsoft Entra ID, Zero Trust architecture, Conditional Access and automation.  
+Focused on reducing risk, improving security posture and enabling smooth access for users at enterprise scale.
+
+### I help organisations:
+- Strengthen identity perimeter with Zero Trust access controls  
+- Automate provisioning, governance and lifecycle (JML workflows)  
+- Implement Conditional Access designs and staged rollouts  
+- Build PowerShell/Graph automation for reporting and governance  
+- Improve visibility using logs, audit and authentication insights  
 
 ---
 
-# 🚀 What I'm Working On
-- SC-300 Identity & Access labs  
+<!-- ======================= CURRENT WORK ======================= -->
+
+## 🚀 Currently Working On
+
+- SC-300 Identity Engineering labs  
 - Conditional Access architecture patterns  
-- Zero Trust identity modelling  
+- Identity Governance (PIM, Access Reviews, Entitlement Mgmt)  
 - PowerShell + Graph automation toolkit  
-- Identity Governance (JML, Access Reviews, PIM)
+- Zero Trust modelling & identity risk reduction  
 
 ---
 
-# 🛡️ Core Security Areas
+<!-- ======================= CORE COMPETENCES ======================= -->
 
-## 🔐 Identity & Access Management
-- Microsoft Entra ID  
-- Conditional Access (design, modelling, testing)  
+## 🔐 Core Identity & Security Expertise
+
+### Identity & Access Management
+- Entra ID Administration  
+- Conditional Access (modelling, design & testing)  
 - Privileged Identity Management (PIM)  
-- Identity Governance (JML / Access Reviews / Entitlement Mgt)  
-- Zero Trust identity architecture  
-- Strong authentication (MFA, passwordless, FIDO2)
+- Identity Governance (JML + Access Reviews + Entitlement)  
+- Zero Trust Identity Architecture  
+- Authentication: MFA, Passwordless, FIDO2  
 
-## 🛡 Microsoft 365 Security
+### Microsoft 365 Security
 - Microsoft Defender XDR  
-- Identity Protection  
-- Information Protection  
-- Threat analysis & incident investigation  
-- Log, audit & sign-in analysis  
+- Information Protection & Governance  
+- Identity Protection & Risk Detection  
+- Sign-in/Audit Log Analysis  
+- Incident Response & Threat Investigation  
 
-## 💻 Automation & Engineering
-- PowerShell engineering  
+### Automation & Engineering
+- PowerShell Scripting  
 - Microsoft Graph API  
-- Identity reporting automation  
-- CA policy & governance automation  
-- Lifecycle automation (JML)
+- Automated reporting & governance  
+- Identity lifecycle automation  
+- CA & PIM policy automation  
 
 ---
 
-# 🎓 Microsoft Certification Journey
+<!-- ======================= TECH STACK BADGES ======================= -->
 
-| Certification | Status | Badge |
-|--------------|--------|-------|
-| MS-900 | ✔ Completed | ![](https://img.shields.io/badge/MS900-Completed-blue) |
-| AZ-900 | ✔ Completed | ![](https://img.shields.io/badge/AZ900-Completed-blue) |
-| SC-900 | ✔ Completed | ![](https://img.shields.io/badge/SC900-Completed-blue) |
-| **SC-300** | 🟩 In Progress | ![](https://img.shields.io/badge/SC300-In%20Progress-brightgreen) |
-| SC-200 | ⬜ Planned | ![](https://img.shields.io/badge/SC200-Planned-lightgrey) |
-| SC-400 | ⬜ Planned | ![](https://img.shields.io/badge/SC400-Planned-lightgrey) |
-| AZ-500 | ⬜ Planned | ![](https://img.shields.io/badge/AZ500-Planned-lightgrey) |
-| SC-100 | ⬜ Planned | ![](https://img.shields.io/badge/SC100-Planned-lightgrey) |
+## ⚙ Tech Stack
 
----
-
-# ⚙️ Tech Stack
-
-### 🔐 Identity & Security
+#### 🔐 Identity & Security  
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Entra_ID-512BD4?logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Conditional_Access-0078D4" />
-<img src="https://img.shields.io/badge/PIM-9333EA" />
 <img src="https://img.shields.io/badge/Zero_Trust-000000" />
+<img src="https://img.shields.io/badge/PIM-9333EA" />
 </p>
 
-### 💻 Automation & APIs
+#### 💻 Automation & APIs  
 <p>
 <img src="https://img.shields.io/badge/PowerShell-2CA5E0?logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Graph_API-0078D4?logo=microsoft&logoColor=white" />
 </p>
 
-### ☁️ Cloud Platforms
+#### ☁ Cloud  
 <p>
 <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_365-0078D4?logo=microsoft" />
@@ -91,138 +99,101 @@ I design identity solutions, build cloud security automations, and develop gover
 
 ---
 
-# 🔗 Featured Repositories
+<!-- ======================= FEATURED PROJECTS ======================= -->
 
-### 🧩 **SC-300 Identity & Access Lab Series**
-Identity engineering labs based on real enterprise scenarios  
-👉 **Repo:** https://github.com/latifatvictor/SC300-Lab-Projects
+## 🔗 Featured Projects
 
-### 💻 **M365 PowerShell & Graph Automation Toolkit**
-Production-grade scripts for reporting, governance and identity automation  
-👉 **Repo:** https://github.com/latifatvictor/M365-PowerShell-Scripts
-
-### 🛡 **Identity Governance Templates**
-Enterprise governance frameworks (JML, PIM, Access Reviews, Admin roles)  
-👉 **Repo:** https://github.com/latifatvictor/Identity-Governance-Templates
+| Project | Description | Link |
+|--------|-------------|------|
+| **SC-300 Identity & Access Lab Series** | Real-world identity engineering labs | https://github.com/latifatvictor/SC300-Lab-Projects |
+| **M365 PowerShell & Graph Automation Toolkit** | Scripts for governance, reporting and automation | https://github.com/latifatvictor/M365-PowerShell-Scripts |
+| **Identity Governance Templates** | JML, PIM and Access Review frameworks | https://github.com/latifatvictor/Identity-Governance-Templates |
 
 ---
 
-# 🔐 Identity & Security Lab Projects
+<!-- ======================= IDENTITY LAB SHOWCASE ======================= -->
 
-## **SC-300 Identity & Access Lab Series**
+## 🧪 Identity Engineering Lab Highlights
 
-### 📍 Scenario 1: Require MFA Outside Trusted Locations
-- Policy design  
-- Testing & logging  
-- Security justification  
+### 📍 SC-300 Labs
+- Require MFA outside trusted networks  
+- Block legacy authentication to reduce risk surface  
+- Admin access hardening using PIM + CA  
+- Conditional Access staged rollout blueprint  
+- Authentication log analysis and reporting  
 
-### 📍 Scenario 2: Block Legacy Authentication
-- Attack surface analysis  
-- Policy creation  
-- Monitoring & alerts  
-
-### 📍 Scenario 3: Admin Access Hardening (PIM + CA)
-- Just-in-time access  
-- Least privilege  
-- Governance controls  
-
-_More labs added weekly._
+_More labs added regularly._
 
 ---
 
-# 💻 PowerShell & Graph Automation Projects
+<!-- ======================= POWERSHELL AUTOMATION ======================= -->
 
-## **Microsoft 365 Automation Toolkit**
+## 💻 Identity Automation Toolkit
 
-### 🔹 User Management
-- Create users  
-- Bulk import  
-- Update attributes  
-- Disable accounts  
+### User & Access Management
+- Bulk provisioning, updates, disable workflows  
+- Secure offboarding and attribute lifecycle automation  
 
-### 🔹 Reporting
+### Reporting & Auditing
 - Sign-in logs  
-- Audit logs  
-- Conditional Access  
 - Authentication methods  
+- Conditional Access  
 - Licence usage  
-- PIM assignments  
+- PIM Role Reports  
 
-### 🔹 Security
-- MFA audit  
-- CA analysis  
-- Privileged role governance  
-- Identity protection reports  
-
-👉 Explore all scripts:  
-https://github.com/latifatvictor/M365-PowerShell-Scripts
+All scripts here: https://github.com/latifatvictor/M365-PowerShell-Scripts
 
 ---
 
-# 🛡 Identity Governance Suite
+<!-- ======================= CERTIFICATIONS ======================= -->
 
-### 🔸 JML (Joiner–Mover–Leaver)
-- Automation templates  
-- Attribute logic  
-- Secure offboarding  
+## 🎓 Certification Path
 
-### 🔸 Access Reviews
-- Admin roles  
-- Groups  
-- Applications  
-
-### 🔸 Entitlement Management
-- Access packages  
-- Policy design  
-- Review workflows  
-
-👉 Repo: https://github.com/latifatvictor/Identity-Governance-Templates
+| Cert | Status |
+|------|--------|
+| MS-900 | ✔ |
+| AZ-900 | ✔ |
+| SC-900 | ✔ |
+| **SC-300** | 🟩 In Progress |
+| SC-200 | Planned |
+| SC-400 | Planned |
+| AZ-500 | Planned |
+| SC-100 | Planned |
 
 ---
 
-# 🧠 Learning Notes & Architecture Diagrams
+<!-- ======================= PRO CAREER SIGNAL ======================= -->
 
-### 📘 Notes
-Weekly structured notes covering:
-- SC-300  
-- Zero Trust  
-- Identity security  
-- Authentication  
+## 🏢 Professional Growth Roadmap 2025
 
-### 📊 Diagrams
-- Identity lifecycle  
-- Conditional Access flow  
-- Zero Trust identity  
-- Authentication flow  
-- Security posture roadmap  
+- Complete SC-300 with full enterprise lab repo  
+- Build identity automation modules using Graph  
+- Implement complete JML + Access Review system  
+- Expand into SC-200 / SC-400 / Security Engineering  
+- Develop Zero Trust dashboard + monitoring  
 
 ---
 
-# 🏆 GitHub Profile Trophy
+<!-- ======================= STATS ======================= -->
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latifatvictor&theme=matrix&column=7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true&theme=tokyonight">
 </p>
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true&theme=tokyonight" height="160">
-</p>
+<!-- ======================= CONTACT ======================= -->
+
+## 🤝 Connect With Me
+
+📌 LinkedIn: https://www.linkedin.com/in/latifatvictor/  
 
 ---
 
-# 🤝 Connect With Me  
-📌 **LinkedIn:** https://www.linkedin.com/in/latifatvictor/
+### ⭐ Thank You for Visiting
 
----
+Consistently improving in Identity Security & Cloud Automation.  
+Feel free to explore my labs, fork code or collaborate.
 
-# 🗓 Last Updated  
-**November 2025**
-
----
-
-# ⭐ Thank You for Visiting
-This portfolio is updated regularly as I deepen my expertise in **Identity Security, Microsoft 365 Security, PowerShell automation and Zero Trust architecture**.
-
-Feel free to explore my projects or connect with me.
