@@ -1,182 +1,125 @@
-<!-- ======================= PROFILE HEADER ======================= -->
-
-<h1 align="center">🌐 Lati | Cloud Identity & Microsoft 365 Security Engineer</h1>
+<h1 align="center">🔐 Lati | Microsoft Cloud Security & Identity Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Identity+Engineer;Microsoft+365+Security+%26+Zero+Trust;Entra+ID+Conditional+Access+Expert;PowerShell+%26+Graph+Automation;SC-300+Identity+Engineering+Journey&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Microsoft+Cloud+Security+Engineer;Identity-First+Zero+Trust+Architecture;Entra+ID+%7C+Defender+%7C+Sentinel;Security+Engineering+%26+Automation;Protecting+Modern+Cloud+Environments&center=true&width=900&height=45" />
 </p>
 
 <p align="center">
-  <b>Designing secure access at scale with Entra ID, Zero Trust and Automation</b><br>
-  Identity Governance ▪ Conditional Access ▪ JML Automation ▪ PowerShell + Graph ▪ Cloud Security
+  <b>Designing, securing, and governing access across the Microsoft cloud</b><br>
+  Identity & Access Security ▪ Zero Trust ▪ Microsoft Defender ▪ Sentinel ▪ Security Automation
 </p>
 
 <p align="center">
-  📍 London, UK • 🚀 On a mission to become a world-class Cloud Identity & Security Engineer
+  📍 London, UK • ☁ Microsoft Cloud • 🛡 Security Engineering
 </p>
 
 ---
 
-<!-- ======================= VALUE & POSITIONING ======================= -->
+## 👋 About Me
 
-## 🏆 What I Do
+I am a **Microsoft Cloud Security & Identity Engineer** with a strong focus on **identity-first security, Zero Trust architecture, and cloud security operations**.
 
-I build and secure identity systems using Microsoft Entra ID, Zero Trust architecture, Conditional Access and automation.  
-Focused on reducing risk, improving security posture and enabling smooth access for users at enterprise scale.
+I work across the Microsoft security ecosystem to design and document **secure, scalable, and auditable security controls** that protect users, applications, and data in modern cloud environments.
 
-### I help organisations:
-- Strengthen identity perimeter with Zero Trust access controls  
-- Automate provisioning, governance and lifecycle (JML workflows)  
-- Implement Conditional Access designs and staged rollouts  
-- Build PowerShell/Graph automation for reporting and governance  
-- Improve visibility using logs, audit and authentication insights  
+This GitHub profile is a **professional security engineering portfolio**.  
+It showcases **hands-on security implementations, architecture decisions, automation, and investigation workflows** aligned with Microsoft role-based security paths and real-world enterprise scenarios.
 
 ---
 
-<!-- ======================= CURRENT WORK ======================= -->
+## 🛡 Security Engineering Domains
 
-## 🚀 Currently Working On
-
-- SC-300 Identity Engineering labs  
-- Conditional Access architecture patterns  
-- Identity Governance (PIM, Access Reviews, Entitlement Mgmt)  
-- PowerShell + Graph automation toolkit  
-- Zero Trust modelling & identity risk reduction  
-
----
-
-<!-- ======================= CORE COMPETENCES ======================= -->
-
-## 🔐 Core Identity & Security Expertise
-
-### Identity & Access Management
-- Entra ID Administration  
-- Conditional Access (modelling, design & testing)  
+### 🔐 Identity & Access Security
+- Microsoft Entra ID architecture and administration  
+- Conditional Access policy design and enforcement  
+- Zero Trust identity models  
+- Authentication security (MFA, passwordless, FIDO2)  
 - Privileged Identity Management (PIM)  
-- Identity Governance (JML + Access Reviews + Entitlement)  
-- Zero Trust Identity Architecture  
-- Authentication: MFA, Passwordless, FIDO2  
+- Identity Governance (JML, Access Reviews, Entitlement Management)
 
-### Microsoft 365 Security
+### 🛡 Microsoft Cloud Security
 - Microsoft Defender XDR  
-- Information Protection & Governance  
-- Identity Protection & Risk Detection  
-- Sign-in/Audit Log Analysis  
-- Incident Response & Threat Investigation  
+- Defender for Endpoint, Identity, and Cloud  
+- Identity Protection and risk-based access  
+- Microsoft Purview (Information Protection, DLP, Insider Risk)  
+- Audit and compliance logging
 
-### Automation & Engineering
-- PowerShell Scripting  
+### 🔍 Security Operations (SecOps)
+- Microsoft Sentinel SIEM  
+- KQL-driven detections and investigations  
+- Incident response workflows  
+- Threat hunting and log correlation  
+- Security posture improvement
+
+### ⚙ Automation & Engineering
+- PowerShell security automation  
 - Microsoft Graph API  
-- Automated reporting & governance  
 - Identity lifecycle automation  
-- CA & PIM policy automation  
+- Policy evaluation and reporting  
+- Security governance automation
 
 ---
 
-<!-- ======================= TECH STACK BADGES ======================= -->
+## 🧭 How This GitHub Is Structured
 
-## ⚙ Tech Stack
+This profile is intentionally curated.  
+Each repository represents **security engineering work**, not coursework.
 
-#### 🔐 Identity & Security  
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Entra_ID-512BD4?logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Conditional_Access-0078D4" />
-<img src="https://img.shields.io/badge/Zero_Trust-000000" />
-<img src="https://img.shields.io/badge/PIM-9333EA" />
-</p>
+You’ll find:
+- 🔐 Identity & Access engineering scenarios  
+- 🛡 Zero Trust and Conditional Access architectures  
+- 🔑 Privileged access and governance frameworks  
+- 🔍 Security investigations and log analysis  
+- ⚙ Automation for identity and cloud security  
+- 📊 Architecture diagrams and security flows  
 
-#### 💻 Automation & APIs  
-<p>
-<img src="https://img.shields.io/badge/PowerShell-2CA5E0?logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Graph_API-0078D4?logo=microsoft&logoColor=white" />
-</p>
-
-#### ☁ Cloud  
-<p>
-<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_365-0078D4?logo=microsoft" />
-</p>
+All repositories evolve as part of **continuous professional development**, aligned with Microsoft security roles.
 
 ---
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
+## 📂 Featured Repositories (Growing)
 
-## 🔗 Featured Projects
+> Repositories will be published progressively as security domains are covered and implemented.
 
-| Project | Description | Link |
-|--------|-------------|------|
-| **SC-300 Identity & Access Lab Series** | Real-world identity engineering labs | https://github.com/latifatvictor/SC300-Lab-Projects |
-| **M365 PowerShell & Graph Automation Toolkit** | Scripts for governance, reporting and automation | https://github.com/latifatvictor/M365-PowerShell-Scripts |
-| **Identity Governance Templates** | JML, PIM and Access Review frameworks | https://github.com/latifatvictor/Identity-Governance-Templates |
+- **Cloud Identity & Access Security Labs**  
+  Identity-first security scenarios aligned with Entra ID and Zero Trust
 
----
+- **Microsoft Security Operations**  
+  Defender and Sentinel-based detection, investigation, and response
 
-<!-- ======================= IDENTITY LAB SHOWCASE ======================= -->
+- **Cloud Security Automation**  
+  PowerShell and Graph automation for identity and security operations
 
-## 🧪 Identity Engineering Lab Highlights
-
-### 📍 SC-300 Labs
-- Require MFA outside trusted networks  
-- Block legacy authentication to reduce risk surface  
-- Admin access hardening using PIM + CA  
-- Conditional Access staged rollout blueprint  
-- Authentication log analysis and reporting  
-
-_More labs added regularly._
+Each repository is structured for **clarity, realism, and enterprise relevance**.
 
 ---
 
-<!-- ======================= POWERSHELL AUTOMATION ======================= -->
+## 🧠 Security Philosophy
 
-## 💻 Identity Automation Toolkit
+- Identity is the primary security control plane  
+- Zero Trust is a design strategy, not a feature  
+- Strong authentication reduces breach impact  
+- Automation improves consistency and reduces risk  
+- Visibility and logging are essential for defence  
 
-### User & Access Management
-- Bulk provisioning, updates, disable workflows  
-- Secure offboarding and attribute lifecycle automation  
-
-### Reporting & Auditing
-- Sign-in logs  
-- Authentication methods  
-- Conditional Access  
-- Licence usage  
-- PIM Role Reports  
-
-All scripts here: https://github.com/latifatvictor/M365-PowerShell-Scripts
+Security controls must be **usable, defensible, and measurable**.
 
 ---
 
-<!-- ======================= CERTIFICATIONS ======================= -->
+## 🎯 Microsoft Role Alignment
 
-## 🎓 Certification Path
+My work aligns closely with Microsoft role-based security paths, including:
 
-| Cert | Status |
-|------|--------|
-| MS-900 | ✔ |
-| AZ-900 | ✔ |
-| SC-900 | ✔ |
-| **SC-300** | 🟩 In Progress |
-| SC-200 | Planned |
-| SC-400 | Planned |
-| AZ-500 | Planned |
-| SC-100 | Planned |
+- Identity and Access Administrator  
+- Security Operations Analyst  
+- Information Protection Administrator  
+- Azure Security Engineer  
+- Microsoft Cloud Security Engineer  
+
+This GitHub demonstrates **applied security engineering**, not theoretical knowledge.
 
 ---
 
-<!-- ======================= PRO CAREER SIGNAL ======================= -->
-
-## 🏢 Professional Growth Roadmap 2025
-
-- Complete SC-300 with full enterprise lab repo  
-- Build identity automation modules using Graph  
-- Implement complete JML + Access Review system  
-- Expand into SC-200 / SC-400 / Security Engineering  
-- Develop Zero Trust dashboard + monitoring  
-
----
-
-<!-- ======================= STATS ======================= -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true&theme=tokyonight">
@@ -184,16 +127,15 @@ All scripts here: https://github.com/latifatvictor/M365-PowerShell-Scripts
 
 ---
 
-<!-- ======================= CONTACT ======================= -->
+## 🤝 Connect
 
-## 🤝 Connect With Me
-
-📌 LinkedIn: https://www.linkedin.com/in/latifatvictor/  
+📌 LinkedIn: https://www.linkedin.com/in/latifatvictor/
 
 ---
 
-### ⭐ Thank You for Visiting
+### ⭐ Final Note
 
-Consistently improving in Identity Security & Cloud Automation.  
-Feel free to explore my labs, fork code or collaborate.
+This is a **living security engineering portfolio**.  
+It evolves as I design, implement, and refine **identity-first cloud security solutions** across the Microsoft ecosystem.
 
+Thank you for visiting.
