@@ -1,141 +1,95 @@
-<h1 align="center">🔐 Lati | Microsoft Cloud Security & Identity Engineer</h1>
+# Hi, I’m Lati 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Microsoft+Cloud+Security+Engineer;Identity-First+Zero+Trust+Architecture;Entra+ID+%7C+Defender+%7C+Sentinel;Security+Engineering+%26+Automation;Protecting+Modern+Cloud+Environments&center=true&width=900&height=45" />
-</p>
+I’m a Modern Workplace and Identity-focused IT professional specialising in the design, operation, and continuous improvement of Microsoft 365 platforms in enterprise environments.
 
-<p align="center">
-  <b>Designing, securing, and governing access across the Microsoft cloud</b><br>
-  Identity & Access Security ▪ Zero Trust ▪ Microsoft Defender ▪ Sentinel ▪ Security Automation
-</p>
-
-<p align="center">
-  📍 London, UK • ☁ Microsoft Cloud • 🛡 Security Engineering
-</p>
+My work sits at the intersection of **identity, endpoint management, security, and service ownership**. I focus on building workplace platforms that are secure by design, reliable in operation, and simple for users to work with every day.
 
 ---
 
-## 👋 About Me
+## What I focus on
 
-I am a **Microsoft Cloud Security & Identity Engineer** with a strong focus on **identity-first security, Zero Trust architecture, and cloud security operations**.
-
-I work across the Microsoft security ecosystem to design and document **secure, scalable, and auditable security controls** that protect users, applications, and data in modern cloud environments.
-
-This GitHub profile is a **professional security engineering portfolio**.  
-It showcases **hands-on security implementations, architecture decisions, automation, and investigation workflows** aligned with Microsoft role-based security paths and real-world enterprise scenarios.
-
----
-
-## 🛡 Security Engineering Domains
-
-### 🔐 Identity & Access Security
-- Microsoft Entra ID architecture and administration  
-- Conditional Access policy design and enforcement  
-- Zero Trust identity models  
-- Authentication security (MFA, passwordless, FIDO2)  
-- Privileged Identity Management (PIM)  
-- Identity Governance (JML, Access Reviews, Entitlement Management)
-
-### 🛡 Microsoft Cloud Security
-- Microsoft Defender XDR  
-- Defender for Endpoint, Identity, and Cloud  
-- Identity Protection and risk-based access  
-- Microsoft Purview (Information Protection, DLP, Insider Risk)  
-- Audit and compliance logging
-
-### 🔍 Security Operations (SecOps)
-- Microsoft Sentinel SIEM  
-- KQL-driven detections and investigations  
-- Incident response workflows  
-- Threat hunting and log correlation  
-- Security posture improvement
-
-### ⚙ Automation & Engineering
-- PowerShell security automation  
-- Microsoft Graph API  
-- Identity lifecycle automation  
-- Policy evaluation and reporting  
-- Security governance automation
+- **Modern Workplace platform ownership** across Microsoft 365  
+- **Identity and access management** using Entra ID (Azure AD)  
+- **Endpoint management and compliance** with Intune and SCCM  
+- **Security-by-design** through Conditional Access, MFA, and governance  
+- **Automation and operational improvement** using PowerShell  
+- **Service ownership and reliability** using ITIL-aligned practices  
 
 ---
 
-## 🧭 How This GitHub Is Structured
+## Why this GitHub exists
 
-This profile is intentionally curated.  
-Each repository represents **security engineering work**, not coursework.
+This GitHub is not about flashy code or side projects.
 
-You’ll find:
-- 🔐 Identity & Access engineering scenarios  
-- 🛡 Zero Trust and Conditional Access architectures  
-- 🔑 Privileged access and governance frameworks  
-- 🔍 Security investigations and log analysis  
-- ⚙ Automation for identity and cloud security  
-- 📊 Architecture diagrams and security flows  
+It is a practical collection of:
+- Automation scripts
+- Platform configuration examples
+- Operational runbooks
+- Learning notes and design thinking
 
-All repositories evolve as part of **continuous professional development**, aligned with Microsoft security roles.
+Everything here reflects how I approach real-world enterprise platforms:  
+**secure, governed, scalable, and user-centred**.
 
 ---
 
-## 📂 Featured Repositories (Growing)
+## Repositories you’ll find here
 
-> Repositories will be published progressively as security domains are covered and implemented.
+### 🔐 Identity & Access
+Scripts and notes focused on:
+- User lifecycle automation  
+- Group-based access control  
+- Conditional Access and authentication hygiene  
 
-- **Cloud Identity & Access Security Labs**  
-  Identity-first security scenarios aligned with Entra ID and Zero Trust
+### 💻 Endpoint & Device Management
+Practical work around:
+- Intune device compliance and configuration  
+- Endpoint security baselines  
+- Device trust and access control  
 
-- **Microsoft Security Operations**  
-  Defender and Sentinel-based detection, investigation, and response
+### ⚙️ Service Operations & Governance
+Examples of:
+- Microsoft 365 service ownership artefacts  
+- Incident and change runbooks  
+- Service health and reliability checks  
 
-- **Cloud Security Automation**  
-  PowerShell and Graph automation for identity and security operations
+### 🤖 Automation
+PowerShell scripts to:
+- Reduce manual effort  
+- Improve consistency  
+- Support operational visibility  
 
-Each repository is structured for **clarity, realism, and enterprise relevance**.
-
----
-
-## 🧠 Security Philosophy
-
-- Identity is the primary security control plane  
-- Zero Trust is a design strategy, not a feature  
-- Strong authentication reduces breach impact  
-- Automation improves consistency and reduces risk  
-- Visibility and logging are essential for defence  
-
-Security controls must be **usable, defensible, and measurable**.
-
----
-
-## 🎯 Microsoft Role Alignment
-
-My work aligns closely with Microsoft role-based security paths, including:
-
-- Identity and Access Administrator  
-- Security Operations Analyst  
-- Information Protection Administrator  
-- Azure Security Engineer  
-- Microsoft Cloud Security Engineer  
-
-This GitHub demonstrates **applied security engineering**, not theoretical knowledge.
+### 📚 Learning & Notes
+Clear, structured notes from:
+- SC-300 (Identity and Access)
+- MD-102 (Endpoint Administration)
+- Modern Workplace and Zero Trust concepts
 
 ---
 
-## 📊 GitHub Activity
+## Tools & technologies
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true&theme=tokyonight">
-</p>
-
----
-
-## 🤝 Connect
-
-📌 LinkedIn: https://www.linkedin.com/in/latifatvictor/
+- Microsoft 365  
+- Entra ID (Azure AD)  
+- Microsoft Intune  
+- PowerShell  
+- ServiceNow (ITSM context)  
+- ITIL-aligned service practices  
 
 ---
 
-### ⭐ Final Note
+## How I think about technology
 
-This is a **living security engineering portfolio**.  
-It evolves as I design, implement, and refine **identity-first cloud security solutions** across the Microsoft ecosystem.
+Good workplace technology should:
+- Be **secure without being obstructive**
+- Be **reliable without constant intervention**
+- Fade into the background so people can focus on their work
 
-Thank you for visiting.
+That principle guides everything you will see here.
+
+---
+
+## Let’s connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/latifatvictor/
+
+Thanks for visiting 👋
