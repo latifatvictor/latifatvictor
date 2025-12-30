@@ -22,10 +22,10 @@ My work sits at the intersection of **identity, endpoint management, security, a
 This GitHub is not about flashy code or side projects.
 
 It is a practical collection of:
-- Automation scripts
-- Platform configuration examples
-- Operational runbooks
-- Learning notes and design thinking
+- Automation scripts  
+- Platform configuration examples  
+- Operational runbooks  
+- Learning notes and design thinking  
 
 Everything here reflects how I approach real-world enterprise platforms:  
 **secure, governed, scalable, and user-centred**.
@@ -59,10 +59,13 @@ PowerShell scripts to:
 - Support operational visibility  
 
 ### 📚 Learning & Notes
-Clear, structured notes from:
-- SC-300 (Identity and Access)
-- MD-102 (Endpoint Administration)
-- Modern Workplace and Zero Trust concepts
+Clear, structured notes and applied learning from:
+- SC-300 – Identity and Access  
+- MD-102 – Endpoint Administration  
+- MS-102 – Microsoft 365 Administrator  
+- SC-401 – Information Security Administrator  
+- ServiceNow System Administration  
+- Modern Workplace and Zero Trust concepts  
 
 ---
 
@@ -80,9 +83,9 @@ Clear, structured notes from:
 ## How I think about technology
 
 Good workplace technology should:
-- Be **secure without being obstructive**
-- Be **reliable without constant intervention**
-- Fade into the background so people can focus on their work
+- Be **secure without being obstructive**  
+- Be **reliable without constant intervention**  
+- Fade into the background so people can focus on their work  
 
 That principle guides everything you will see here.
 
