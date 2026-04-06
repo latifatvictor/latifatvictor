@@ -127,8 +127,8 @@ I focus on solving real business problems, improving user experience, and reduci
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=latifatvictor&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifatvictor&theme=tokyonight" />
 </p>
 
 ---
