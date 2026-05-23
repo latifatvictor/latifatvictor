@@ -11,8 +11,7 @@
   <a href="mailto:latifatvictor@outlook.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=latifatvictor&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
+  
 </p>
 </div>
 
