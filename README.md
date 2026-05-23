@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">👋 Hi, I'm Latifat</h1>
+<h1 align="center">👋 Hi, I'm Lati</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Modern+Workplace+Engineer+%F0%9F%8F%A2;Microsoft+365+Specialist+%E2%98%81%EF%B8%8F;Identity+%26+Access+Management+%F0%9F%94%90;Power+Platform+Builder+%E2%9A%A1;PowerShell+Automation+Architect+%F0%9F%9A%80;Microsoft+Learn+%7C+Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
