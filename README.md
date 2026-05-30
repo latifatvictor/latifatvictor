@@ -82,20 +82,36 @@ I don't just resolve tickets - I architect systems that scale.
 | **SC-300 - Identity and Access Administrator** | Entra ID, MFA, SSPR, PIM, Conditional Access |
 
 
-### 📝 Applied Skills Modules I Follow
+## 🎯 Microsoft Applied Skills - In Progress & Planned
 
-Practical, scenario-based modules that map directly to real-world work:
+Scenario-based Microsoft assessments that validate hands-on technical work across 
+identity, security, and Modern Workplace engineering:
 
-- 🔐 **Secure Microsoft Entra users with MFA & SSPR** - Identity protection fundamentals
-- 📋 **Implement Microsoft Entra ID governance** - Access lifecycle, entitlement management
-- 🛡️ **Configure Conditional Access policies** - Zero Trust identity controls
-- 🔑 **Implement Privileged Identity Management (PIM)** - Just-in-time access
-- 📊 **Manage Microsoft 365 with PowerShell** - Scripted administration at scale
-- 💼 **Deploy and manage Microsoft Intune** - Endpoint compliance and device management
-- ⚡ **Build automated workflows with Power Automate** - Business process automation
-- 🏢 **Configure SharePoint and OneDrive** - Collaboration and content governance
+### 🔄 In Progress
+- 🪪 **Get started with identities and access using Microsoft Entra** - Identity 
+governance and Zero Trust access controls
+- 🛡️ **Defend against cyberthreats with Microsoft Defender XDR** - Threat protection 
+across the M365 stack
+- ⚡ **Create and manage automated processes using Power Automate** - Business process 
+automation at enterprise scale
 
-> 💡 I study these learning paths to stay informed and technically grounded - the knowledge feeds directly into the solutions and automations I build.
+### 📅 Planned
+- 📋 **Create and manage canvas apps with Power Apps** - Self-service solutions for 
+non-technical stakeholders
+- 🛡️ **Prepare security and compliance to support Microsoft 365 Copilot** - Governance 
+readiness for AI-powered workplaces
+- 🔏 **Implement information protection, retention, eDiscovery and Communication 
+Compliance** - Data governance and compliance frameworks
+- 🖥️ **Administer Active Directory Domain Services** - On-premises identity management 
+and hybrid environments
+- ☁️ **Get started with cloud security and monitoring tasks** - Cloud security posture 
+and monitoring fundamentals
+
+---
+
+> Each of these maps directly to real work I design and deliver - from identity 
+governance and Zero Trust architecture to endpoint management and compliance frameworks 
+across Microsoft 365 environments.
 
 ---
 
