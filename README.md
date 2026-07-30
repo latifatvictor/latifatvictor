@@ -27,11 +27,14 @@ I don't just resolve tickets - I architect systems that scale.
 
 | 🎯 What I Do | 💡 How I Do It |
 |---|---|
-| Design end-to-end identity solutions | Microsoft Entra ID & Conditional Access |
-| Automate business & admin processes | Power Platform & PowerShell |
-| Govern access & enforce compliance | Lifecycle workflows, Access Reviews |
-| Build real-world workplace apps | Power Apps, Power Automate, SharePoint |
-| Study & grow continuously | Microsoft Learn, certifications & applied skills |
+| Design secure identity & access solutions | Microsoft Entra ID, Conditional Access & Identity Governance |
+| Manage enterprise devices & endpoints | Microsoft Intune, Windows Autopilot & Endpoint Management |
+| Protect users, devices & data | Microsoft Defender XDR, Defender for Endpoint & Defender for Office 365 |
+| Enable AI-powered productivity | Microsoft 365 Copilot, Copilot Studio & AI Adoption |
+| Automate business & IT processes | Power Platform, Power Automate & PowerShell |
+| Build modern workplace solutions | Power Apps, SharePoint & Microsoft Forms |
+| Govern access & enforce compliance | Lifecycle Workflows, Access Reviews & RBAC |
+| Study & grow continuously | Microsoft Learn, Certifications & Hands-on Labs |
 
 ---
 
@@ -117,15 +120,26 @@ across Microsoft 365 environments.
 
 ## 📌 Business Process Solutions - Power Platform
 
-> Real-world applications built to solve genuine operational challenges.
+> Enterprise solutions built to automate business processes, improve governance, and eliminate manual effort.
 
 <details>
 <summary><b>✈️ International Travel Request System</b></summary>
 <br/>
 
-- Fully digitised request and multi-stage approval workflows
-- Improved management visibility and reduced manual coordination overhead
-- Built with Power Apps + Power Automate + SharePoint
+- Digitised international travel requests with multi-stage approval workflows
+- Improved management visibility and reduced manual coordination
+- Built using Power Apps, Power Automate and SharePoint
+
+</details>
+
+<details>
+<summary><b>🏗️ GTS Project Site Visit Request & Approval Solution</b></summary>
+<br/>
+
+- Digitised end-to-end project site visit requests using Microsoft Forms, Power Automate and SharePoint
+- Automated Line Manager and GTS Head approval workflow with notifications and status tracking
+- Centralised requests within SharePoint for reporting, governance and audit purposes
+- Reduced manual administration while improving approval visibility and turnaround times
 
 </details>
 
@@ -133,8 +147,8 @@ across Microsoft 365 environments.
 <summary><b>🅿️ Parking Management System</b></summary>
 <br/>
 
-- Automated booking and fair allocation of parking spaces
-- Eliminated double-bookings and scheduling conflicts
+- Automated parking requests and fair allocation of spaces
+- Eliminated double bookings and scheduling conflicts
 - Real-time availability dashboard for employees
 
 </details>
@@ -143,9 +157,9 @@ across Microsoft 365 environments.
 <summary><b>🚚 Shipping Request Solution</b></summary>
 <br/>
 
-- Streamlined operational requests and approvals end-to-end
-- Improved cross-team tracking and communication
-- Reduced manual email coordination
+- Streamlined operational shipping requests and approvals
+- Improved cross-team communication and request tracking
+- Automated notifications and reduced manual email coordination
 
 </details>
 
@@ -153,9 +167,9 @@ across Microsoft 365 environments.
 <summary><b>🎓 IT Learning & Certification Tracker</b></summary>
 <br/>
 
-- Centralised tracking of team training progress and certifications
-- Improved visibility of team development and skills gaps
-- Automated renewal reminders
+- Centralised tracking of team certifications and learning progress
+- Improved visibility of skills development and compliance
+- Automated certification renewal reminders
 
 </details>
 
@@ -163,8 +177,8 @@ across Microsoft 365 environments.
 <summary><b>🏢 Hybrid Work Desk Booking & Presence System</b></summary>
 <br/>
 
-- Enabled seamless workspace booking and presence tracking
-- Supported hybrid work coordination and capacity planning
+- Enabled intelligent workspace booking and presence tracking
+- Supported hybrid working and office capacity planning
 - Integrated with Microsoft Teams for real-time visibility
 
 </details>
@@ -173,12 +187,11 @@ across Microsoft 365 environments.
 <summary><b>🛎️ Visitor Management Solution</b></summary>
 <br/>
 
-- Digitised visitor registration, pre-registration, and check-in
+- Digitised visitor pre-registration, check-in and host notifications
 - Improved physical security and front desk efficiency
-- Automated host notifications via Teams/email
+- Automated Teams and email notifications for hosts
 
 </details>
-
 ---
 
 ## ⚙️ PowerShell Automation Projects
