@@ -45,7 +45,7 @@ I don't just resolve tickets - I architect systems that scale.
 ✔  I automate business and administrative processes end-to-end
 ✔  I focus on identity security, governance, and access control
 ✔  I align every technical decision with real business outcomes
-✔  I invest in continuous learning through Microsoft Learn & certifications
+
 ```
 
 ---
@@ -73,50 +73,6 @@ I don't just resolve tickets - I architect systems that scale.
 
 ---
 
-## 📚 Microsoft Learn - Self-Directed Study Notes
-
-> I use **Microsoft Learn** as a continuous learning resource to stay current with the Microsoft ecosystem. I study certification learning paths and applied skills modules - not to sit exams, but to deepen my understanding and keep my knowledge sharp and up to date.
-
-### 🗺️ Learning Paths I Study
-
-| Learning Path | Focus Area |
-|---|---|
-| **MS-102 - Microsoft 365 Administrator** | M365 tenant management, identity, compliance & security |
-| **SC-300 - Identity and Access Administrator** | Entra ID, MFA, SSPR, PIM, Conditional Access |
-
-
-## 🎯 Microsoft Applied Skills - Completed & In Progress 
-
-Scenario-based Microsoft assessments that validate hands-on technical work across 
-identity, security, and Modern Workplace engineering:
-
-### 🔄 Completed
-- 🪪 **Get started with identities and access using Microsoft Entra** - Identity 
-governance and Zero Trust access controls
-- 🛡️ **Defend against cyberthreats with Microsoft Defender XDR** - Threat protection 
-across the M365 stack
-- ⚡ **Create and manage automated processes using Power Automate** - Business process 
-automation at enterprise scale
-
-### 📅 In Progress
-- 📋 **Create and manage canvas apps with Power Apps** - Self-service solutions for 
-non-technical stakeholders
-- 🛡️ **Prepare security and compliance to support Microsoft 365 Copilot** - Governance 
-readiness for AI-powered workplaces
-- 🔏 **Implement information protection, retention, eDiscovery and Communication 
-Compliance** - Data governance and compliance frameworks
-- 🖥️ **Administer Active Directory Domain Services** - On-premises identity management 
-and hybrid environments
-- ☁️ **Get started with cloud security and monitoring tasks** - Cloud security posture 
-and monitoring fundamentals
-
----
-
-> Each of these maps directly to real work I design and deliver - from identity 
-governance and Zero Trust architecture to endpoint management and compliance frameworks 
-across Microsoft 365 environments.
-
----
 
 ## 📌 Business Process Solutions - Power Platform
 
@@ -192,7 +148,7 @@ across Microsoft 365 environments.
 - Automated Teams and email notifications for hosts
 
 </details>
----
+
 
 ## ⚙️ PowerShell Automation Projects
 
@@ -229,10 +185,9 @@ across Microsoft 365 environments.
 ## 🔥 Current Focus
 
 ```
-⚡  Automating user lifecycle — JML (Joiners, Movers, Leavers) processes
+⚡  Automating user lifecycle - JML (Joiners, Movers, Leavers) processes
 📊  Building reporting and licence optimisation solutions
 🔐  Strengthening identity governance and Zero Trust security posture
-📚  Studying for Microsoft 365 Administrator Expert (MS-102) & SC-300
 🚀  Expanding real-world Power Platform and PowerShell solutions
 ```
 
