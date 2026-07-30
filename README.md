@@ -82,12 +82,12 @@ I don't just resolve tickets - I architect systems that scale.
 | **SC-300 - Identity and Access Administrator** | Entra ID, MFA, SSPR, PIM, Conditional Access |
 
 
-## 🎯 Microsoft Applied Skills - In Progress & Planned
+## 🎯 Microsoft Applied Skills - Completed & In Progress 
 
 Scenario-based Microsoft assessments that validate hands-on technical work across 
 identity, security, and Modern Workplace engineering:
 
-### 🔄 In Progress
+### 🔄 Completed
 - 🪪 **Get started with identities and access using Microsoft Entra** - Identity 
 governance and Zero Trust access controls
 - 🛡️ **Defend against cyberthreats with Microsoft Defender XDR** - Threat protection 
@@ -95,7 +95,7 @@ across the M365 stack
 - ⚡ **Create and manage automated processes using Power Automate** - Business process 
 automation at enterprise scale
 
-### 📅 Planned
+### 📅 In Progress
 - 📋 **Create and manage canvas apps with Power Apps** - Self-service solutions for 
 non-technical stakeholders
 - 🛡️ **Prepare security and compliance to support Microsoft 365 Copilot** - Governance 
